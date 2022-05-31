@@ -1,0 +1,10 @@
+D:\Projects\DTITeste\InfraApi\bin\Debug\netcoreapp3.1\InfraApi.deps.json
+D:\Projects\DTITeste\InfraApi\bin\Debug\netcoreapp3.1\InfraApi.dll
+D:\Projects\DTITeste\InfraApi\bin\Debug\netcoreapp3.1\InfraApi.pdb
+D:\Projects\DTITeste\InfraApi\obj\Debug\netcoreapp3.1\InfraApi.csproj.AssemblyReference.cache
+D:\Projects\DTITeste\InfraApi\obj\Debug\netcoreapp3.1\InfraApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DTITeste\InfraApi\obj\Debug\netcoreapp3.1\InfraApi.AssemblyInfoInputs.cache
+D:\Projects\DTITeste\InfraApi\obj\Debug\netcoreapp3.1\InfraApi.AssemblyInfo.cs
+D:\Projects\DTITeste\InfraApi\obj\Debug\netcoreapp3.1\InfraApi.csproj.CoreCompileInputs.cache
+D:\Projects\DTITeste\InfraApi\obj\Debug\netcoreapp3.1\InfraApi.dll
+D:\Projects\DTITeste\InfraApi\obj\Debug\netcoreapp3.1\InfraApi.pdb

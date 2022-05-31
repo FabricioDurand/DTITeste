@@ -1,0 +1,20 @@
+D:\Projects\New folder\TesteDTI\DomainApi\bin\Debug\netcoreapp3.1\DomainApi.deps.json
+D:\Projects\New folder\TesteDTI\DomainApi\bin\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\New folder\TesteDTI\DomainApi\bin\Debug\netcoreapp3.1\DomainApi.pdb
+D:\Projects\New folder\TesteDTI\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.csproj.AssemblyReference.cache
+D:\Projects\New folder\TesteDTI\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\New folder\TesteDTI\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.AssemblyInfoInputs.cache
+D:\Projects\New folder\TesteDTI\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.AssemblyInfo.cs
+D:\Projects\New folder\TesteDTI\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\TesteDTI\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\New folder\TesteDTI\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.pdb
+D:\Projects\DTITeste\DomainApi\bin\Debug\netcoreapp3.1\DomainApi.deps.json
+D:\Projects\DTITeste\DomainApi\bin\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\DTITeste\DomainApi\bin\Debug\netcoreapp3.1\DomainApi.pdb
+D:\Projects\DTITeste\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.csproj.AssemblyReference.cache
+D:\Projects\DTITeste\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DTITeste\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.AssemblyInfoInputs.cache
+D:\Projects\DTITeste\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.AssemblyInfo.cs
+D:\Projects\DTITeste\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.csproj.CoreCompileInputs.cache
+D:\Projects\DTITeste\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\DTITeste\DomainApi\obj\Debug\netcoreapp3.1\DomainApi.pdb

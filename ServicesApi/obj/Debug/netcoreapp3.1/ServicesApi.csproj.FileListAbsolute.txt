@@ -1,0 +1,26 @@
+D:\Projects\New folder\TesteDTI\ServicesApi\bin\Debug\netcoreapp3.1\ServicesApi.deps.json
+D:\Projects\New folder\TesteDTI\ServicesApi\bin\Debug\netcoreapp3.1\ServicesApi.dll
+D:\Projects\New folder\TesteDTI\ServicesApi\bin\Debug\netcoreapp3.1\ServicesApi.pdb
+D:\Projects\New folder\TesteDTI\ServicesApi\bin\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\New folder\TesteDTI\ServicesApi\bin\Debug\netcoreapp3.1\DomainApi.pdb
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.csproj.AssemblyReference.cache
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.AssemblyInfoInputs.cache
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.AssemblyInfo.cs
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.csproj.CopyComplete
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.dll
+D:\Projects\New folder\TesteDTI\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.pdb
+D:\Projects\DTITeste\ServicesApi\bin\Debug\netcoreapp3.1\ServicesApi.deps.json
+D:\Projects\DTITeste\ServicesApi\bin\Debug\netcoreapp3.1\ServicesApi.dll
+D:\Projects\DTITeste\ServicesApi\bin\Debug\netcoreapp3.1\ServicesApi.pdb
+D:\Projects\DTITeste\ServicesApi\bin\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\DTITeste\ServicesApi\bin\Debug\netcoreapp3.1\DomainApi.pdb
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.csproj.AssemblyReference.cache
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.AssemblyInfoInputs.cache
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.AssemblyInfo.cs
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.csproj.CoreCompileInputs.cache
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.csproj.CopyComplete
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.dll
+D:\Projects\DTITeste\ServicesApi\obj\Debug\netcoreapp3.1\ServicesApi.pdb

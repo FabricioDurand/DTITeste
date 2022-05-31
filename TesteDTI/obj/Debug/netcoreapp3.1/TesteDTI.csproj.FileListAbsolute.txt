@@ -1,0 +1,64 @@
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.exe
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.deps.json
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.json
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.dev.json
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.pdb
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.AssemblyReference.cache
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfoInputs.cache
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfo.cs
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\staticwebassets\TesteDTI.StaticWebAssets.Manifest.cache
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.RazorTargetAssemblyInfo.cache
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.CopyComplete
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.pdb
+D:\Projects\New folder\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.genruntimeconfig.cache
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\DomainApi.pdb
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\ServicesApi.dll
+D:\Projects\New folder\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\ServicesApi.pdb
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.exe
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.deps.json
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.json
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.dev.json
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.pdb
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\DomainApi.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\ServicesApi.dll
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\DomainApi.pdb
+D:\Projects\DTITeste\TesteDTI\bin\Debug\netcoreapp3.1\ServicesApi.pdb
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.AssemblyReference.cache
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfoInputs.cache
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfo.cs
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.CoreCompileInputs.cache
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\staticwebassets\TesteDTI.StaticWebAssets.Manifest.cache
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.RazorTargetAssemblyInfo.cache
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.CopyComplete
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.dll
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.pdb
+D:\Projects\DTITeste\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.genruntimeconfig.cache

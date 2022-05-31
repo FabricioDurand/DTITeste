@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ma7oA7tdiDcrf76x12xoBcV8QzNFh2yTS6auCPDCcgHcdTnrnUHBApzLfT5dHGXSwFyqUKLzpyhDmkX3Gb9X7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DTITeste\\ServicesApi\\ServicesApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
